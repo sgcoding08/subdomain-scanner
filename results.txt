@@ -1,0 +1,11 @@
+www.bbc.co.uk -> 212.58.236.1
+mail.bbc.co.uk -> 132.185.132.16
+ftp.bbc.co.uk -> 212.58.244.9
+dev.bbc.co.uk -> 212.58.228.21
+test.bbc.co.uk -> 151.101.64.82
+api.bbc.co.uk -> 212.58.244.83
+store.bbc.co.uk -> 212.58.244.129
+support.bbc.co.uk -> 212.58.251.88
+news.bbc.co.uk -> 212.58.249.144
+internal.bbc.co.uk -> 212.58.249.141
+static.bbc.co.uk -> 2.16.248.176
